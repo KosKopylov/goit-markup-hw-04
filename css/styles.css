@@ -240,6 +240,8 @@ padding: 120px 0}
     }
     .name-job{
         padding: 32px 0;}
+        .social-media-list{display: flex;
+        gap: 36px;}
   
 /* #endregion team */
 /* #region portfolio */
